@@ -88,8 +88,8 @@ npm run dev
 
 #Screenshots
 1.HomePage
-[!Homepage](https://github.com/user-attachments/assets/19c86ae4-ddad-4435-be6f-bf1a7a2a15ee)
-[!Homepage](https://github.com/user-attachments/assets/01e40a17-0737-43f6-aea5-778bd0211c0c)
+![Homepage](https://github.com/user-attachments/assets/19c86ae4-ddad-4435-be6f-bf1a7a2a15ee)
+![Homepage](https://github.com/user-attachments/assets/01e40a17-0737-43f6-aea5-778bd0211c0c)
 
 2.Dashboard
-[!Dashboard](https://github.com/user-attachments/assets/62b1b795-b378-46d8-a1e5-8ad6b9448169)
+![Dashboard](https://github.com/user-attachments/assets/62b1b795-b378-46d8-a1e5-8ad6b9448169)
