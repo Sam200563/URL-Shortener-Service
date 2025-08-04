@@ -7,10 +7,8 @@ A full-stack URL shortener application with premium plan support, QR code genera
 
 ## 🚀 Live Links
 
-- **Frontend (Netlify)**: [https://your-frontend.netlify.app](https://your-frontend.netlify.app)
-- **Backend (Render)**: [https://your-backend.onrender.com](https://your-backend.onrender.com)
-- **GitHub Repo (Frontend)**: [Frontend GitHub](https://github.com/yourname/url-shortener-frontend)
-- **GitHub Repo (Backend)**: [Backend GitHub](https://github.com/yourname/url-shortener-backend)
+- **Frontend (Netlify)**: [https://your-frontend.netlify.app](https://url-shortapp.netlify.app/)
+- **Backend (Render)**: [https://your-backend.onrender.com](https://url-shortener-service-0cns.onrender.com)
 
 ---
 
