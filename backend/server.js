@@ -1,4 +1,5 @@
 const express = require('express');
+const cors = require('cors')
 require('dotenv').config()
 const connectDB = require('./config/db')
 const urlroutes = require('./routes/urls')
@@ -11,6 +12,10 @@ const errorHandler = require('./middleware/errorMiddleware')
 
 connectDB();
 const app = express()
+app.use(cors({
+    origin:"https://url-shortener-service-web.netlify.app",
+    credentials:true
+}))
 app.use(express.json())
 app.get('/',(req,res)=>{
     res.send('API is running with nodemon');
