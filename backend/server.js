@@ -13,7 +13,7 @@ const errorHandler = require('./middleware/errorMiddleware')
 connectDB();
 const app = express()
 app.use(cors({
-    origin:"https://url-shortener-service-web.netlify.app",
+    origin:"*",
     credentials:true
 }))
 app.use(express.json())
