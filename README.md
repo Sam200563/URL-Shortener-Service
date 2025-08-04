@@ -1,3 +1,4 @@
+
 # 🔗 Short.ly - Advanced URL Shortener Service
 
 A full-stack URL shortener application with premium plan support, QR code generation, click tracking, user authentication, and dashboard view.
@@ -10,8 +11,6 @@ A full-stack URL shortener application with premium plan support, QR code genera
 - **Backend (Render)**: [https://your-backend.onrender.com](https://your-backend.onrender.com)
 - **GitHub Repo (Frontend)**: [Frontend GitHub](https://github.com/yourname/url-shortener-frontend)
 - **GitHub Repo (Backend)**: [Backend GitHub](https://github.com/yourname/url-shortener-backend)
-- ![Homepage](https://github.com/user-attachments/assets/19c86ae4-ddad-4435-be6f-bf1a7a2a15ee)
-![Homepage](https://github.com/user-attachments/assets/01e40a17-0737-43f6-aea5-778bd0211c0c)
 
 ---
 
@@ -85,6 +84,7 @@ VITE_API_URL=https://your-backend.onrender.com/api
 
 # Start frontend
 npm run dev
+````
 
 ---
 
@@ -98,3 +98,6 @@ npm run dev
 ### 📊 Dashboard
 
 ![Dashboard](https://github.com/user-attachments/assets/62b1b795-b378-46d8-a1e5-8ad6b9448169)
+
+---
+
