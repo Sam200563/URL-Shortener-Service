@@ -99,3 +99,7 @@ npm run dev
 
 ---
 
+💙 Author
+Sampada Ghadigaonkar
+GitHub: [@yourgithub](https://github.com/Sam200563)
+LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/sampada-ghadigaonkar/)
