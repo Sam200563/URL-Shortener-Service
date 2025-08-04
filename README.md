@@ -84,6 +84,8 @@ VITE_API_URL=https://your-backend.onrender.com/api
 # Start frontend
 npm run dev
 
+---
+
 #Screenshots
 1.HomePage
 (https://github.com/user-attachments/assets/19c86ae4-ddad-4435-be6f-bf1a7a2a15ee)
