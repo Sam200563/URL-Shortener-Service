@@ -10,6 +10,8 @@ A full-stack URL shortener application with premium plan support, QR code genera
 - **Backend (Render)**: [https://your-backend.onrender.com](https://your-backend.onrender.com)
 - **GitHub Repo (Frontend)**: [Frontend GitHub](https://github.com/yourname/url-shortener-frontend)
 - **GitHub Repo (Backend)**: [Backend GitHub](https://github.com/yourname/url-shortener-backend)
+- ![Homepage](https://github.com/user-attachments/assets/19c86ae4-ddad-4435-be6f-bf1a7a2a15ee)
+![Homepage](https://github.com/user-attachments/assets/01e40a17-0737-43f6-aea5-778bd0211c0c)
 
 ---
 
